@@ -61,6 +61,20 @@ Chaque jour, j’ajouterai :
 
 ---
 
+📁 cpp/
+├── semaine1/
+├── semaine2/
+├── semaine3/
+├── semaine4/
+📁 javascript/
+├── semaine1/
+├── semaine2/
+├── semaine3/
+├── semaine4/
+📁 projets/
+├── cpp_gestion_contacts/
+├── js_todo_list/
+
 ## 💬 Contact
 
 Pour toute suggestion ou collaboration :  
